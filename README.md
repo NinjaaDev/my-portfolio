@@ -1,4 +1,4 @@
-# Mohamed Guermi - Portfolio Website
+# NinjaDev - Portfolio Website
 
 A modern, responsive personal portfolio website showcasing my work as a Full-Stack Developer.
 
@@ -94,9 +94,9 @@ To customize the portfolio for your own use:
 
 ## 📞 Contact
 
-- **Email**: MohamedWf62@gmail.com
-- **Phone**: +213 541-93-86-00
-- **Location**: Setif, Algeria
+- **Email**: 
+- **Phone**: +213 
+- **Location**:
 
 ## 📄 License
 
